@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormEstacionamiento/1.0.0": {
+        "dependencies": {
+          "ModeloParcial1": "1.0.0"
+        },
+        "runtime": {
+          "FormEstacionamiento.dll": {}
+        }
+      },
+      "ModeloParcial1/1.0.0": {
+        "runtime": {
+          "ModeloParcial1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormEstacionamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloParcial1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

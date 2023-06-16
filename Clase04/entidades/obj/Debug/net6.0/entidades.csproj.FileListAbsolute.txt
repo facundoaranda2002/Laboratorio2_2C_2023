@@ -1,0 +1,12 @@
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\bin\Debug\net6.0\entidades.deps.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\bin\Debug\net6.0\entidades.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\bin\Debug\net6.0\entidades.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.csproj.AssemblyReference.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.AssemblyInfoInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.AssemblyInfo.cs
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.csproj.CoreCompileInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\refint\entidades.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\entidades.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase04\entidades\obj\Debug\net6.0\ref\entidades.dll

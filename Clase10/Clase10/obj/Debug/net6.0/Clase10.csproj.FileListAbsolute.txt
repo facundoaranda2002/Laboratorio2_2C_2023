@@ -1,0 +1,36 @@
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Clase10.exe
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Clase10.deps.json
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Clase10.runtimeconfig.json
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Clase10.dll
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Clase10.pdb
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Entidades.dll
+C:\Users\gbera\source\repos\Clase10\Clase10\bin\Debug\net6.0\Entidades.pdb
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.AssemblyReference.cache
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfoInputs.cache
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfo.cs
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.CoreCompileInputs.cache
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.CopyComplete
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.dll
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\refint\Clase10.dll
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.pdb
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\Clase10.genruntimeconfig.cache
+C:\Users\gbera\source\repos\Clase10\Clase10\obj\Debug\net6.0\ref\Clase10.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Clase10.exe
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Clase10.deps.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Clase10.runtimeconfig.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Clase10.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Clase10.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Entidades.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\bin\Debug\net6.0\Entidades.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.AssemblyReference.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfoInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfo.cs
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.CoreCompileInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.CopyComplete
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\refint\Clase10.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\Clase10.genruntimeconfig.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase10\Clase10\obj\Debug\net6.0\ref\Clase10.dll

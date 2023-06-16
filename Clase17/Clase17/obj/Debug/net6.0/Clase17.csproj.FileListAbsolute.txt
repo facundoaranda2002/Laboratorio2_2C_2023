@@ -1,0 +1,15 @@
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\bin\Debug\net6.0\Clase17.exe
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\bin\Debug\net6.0\Clase17.deps.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\bin\Debug\net6.0\Clase17.runtimeconfig.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\bin\Debug\net6.0\Clase17.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\bin\Debug\net6.0\Clase17.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.csproj.AssemblyReference.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.AssemblyInfoInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.AssemblyInfo.cs
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.csproj.CoreCompileInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\refint\Clase17.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\Clase17.genruntimeconfig.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\Clase17\Clase17\obj\Debug\net6.0\ref\Clase17.dll

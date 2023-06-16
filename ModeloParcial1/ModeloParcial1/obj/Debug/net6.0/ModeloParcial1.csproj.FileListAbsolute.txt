@@ -1,0 +1,12 @@
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\bin\Debug\net6.0\ModeloParcial1.deps.json
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\bin\Debug\net6.0\ModeloParcial1.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\bin\Debug\net6.0\ModeloParcial1.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.csproj.AssemblyReference.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.AssemblyInfoInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.AssemblyInfo.cs
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.csproj.CoreCompileInputs.cache
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\refint\ModeloParcial1.dll
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ModeloParcial1.pdb
+E:\Documentos\Facultad\FRA\Laboratorio 2 2C\ModeloParcial1\ModeloParcial1\obj\Debug\net6.0\ref\ModeloParcial1.dll

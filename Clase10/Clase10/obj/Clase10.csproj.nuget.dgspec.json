@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Clase10\\Clase10.csproj": {}
+  },
+  "projects": {
+    "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Clase10\\Clase10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Clase10\\Clase10.csproj",
+        "projectName": "Clase10",
+        "projectPath": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Clase10\\Clase10.csproj",
+        "packagesPath": "C:\\Users\\gbera\\.nuget\\packages\\",
+        "outputPath": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Clase10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\Entidades.csproj": {
+                "projectPath": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\gbera\\.nuget\\packages\\",
+        "outputPath": "E:\\Documentos\\Facultad\\FRA\\Laboratorio 2 2C\\Clase10\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
