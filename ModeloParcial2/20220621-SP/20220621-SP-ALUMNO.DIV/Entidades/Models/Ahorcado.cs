@@ -85,6 +85,9 @@ namespace Entidades.Models
             }
         }
 
+        public int CantidadDeAciertos { get => cantidadDeAciertos;}
+        public int CantidadIntentosPorPalabra { get => cantidadIntentosPorPalabra;}
+
         private void IniciarJuego()
         {
             this.tarea = Task.Run(() => 

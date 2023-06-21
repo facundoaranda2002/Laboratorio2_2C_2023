@@ -26,10 +26,10 @@ namespace Entidades.DataBase
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection(DataBaseManager.stringConnection))
+                using (DataBaseManager.connection = new SqlConnection(DataBaseManager.stringConnection))
                 {
                     string query = $"SELECT * FROM {tabla} WHERE id =@id";
-                    SqlCommand cmd = new SqlCommand(query, connection);
+                    SqlCommand cmd = new SqlCommand(query, DataBaseManager.connection);
                     cmd.Parameters.AddWithValue("id", id);
                     DataBaseManager.connection.Open();
 

@@ -33,6 +33,9 @@ namespace _20220621_SP_ALUMNO.DIV
             //Alumnos: Instanciar Ahoracado y agregar manejadores
             this.ahorcado = new Ahorcado<Pais>();
 
+            this.ahorcado.OnPalabra += this.MostrarPalabra;
+            this.ahorcado.OnTemporizador += this.MostrarConteo;
+
             this.lblPalabraSecreta.Text = string.Empty;
             this.lblPalabraIngresada.Text = string.Empty;
 
@@ -61,21 +64,36 @@ namespace _20220621_SP_ALUMNO.DIV
         //en el fomrulario el tiempo restante de cada iteracion del juego
         private void MostrarConteo(int segundo)
         {
-
-
-            this.lblTiempo.Text = $"Tiempo Restante: {segundo}";
-
+            DelegadoTemporizador callback;
+            if (this.InvokeRequired)
+            {
+                callback = new DelegadoTemporizador(MostrarConteo);
+                object[] args = { segundo };
+                this.BeginInvoke(callback, args);
+            }
+            else
+            {
+                this.lblTiempo.Text = $"Tiempo Restante: {segundo}";
+            }
         }
 
         //Alumno: Realizar los cambios necesarios sobre Mostrar Palabra de manera que se refleje
         //en el fomrulario la palabra secreta y la cantidad de intentos para esta.
         private void MostrarPalabra(string palabra)
         {
-
-            this.lblPalabraSecreta.Text = $"{palabra[0]}{string.Concat(Enumerable.Repeat(" _ ", (palabra.Length - 2)))}{palabra[palabra.Length - 1]}";
-            this.lblPalabraIngresada.Text = string.Empty;
-            this.lblIntentos.Text = $"Intentos: {this.ahorcado.CantidadIntentosPorPalabra}";
-
+            DelegadoNuevaPalabra callback;
+            if (this.InvokeRequired)
+            {
+                callback = new DelegadoNuevaPalabra(MostrarPalabra);
+                object[] args = { palabra };
+                this.BeginInvoke(callback, args);
+            }
+            else
+            {
+                this.lblPalabraSecreta.Text = $"{palabra[0]}{string.Concat(Enumerable.Repeat(" _ ", (palabra.Length - 2)))}{palabra[palabra.Length - 1]}";
+                this.lblPalabraIngresada.Text = string.Empty;
+                this.lblIntentos.Text = $"Intentos: {this.ahorcado.CantidadIntentosPorPalabra}";
+            }
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -85,7 +103,14 @@ namespace _20220621_SP_ALUMNO.DIV
         //Alumno: Serializar la clase Ahorcado antes de cerrar el formulario
         private void FrmView_FormClosing(object sender, FormClosingEventArgs e)
         {
-            
+            try
+            {
+                FileManager.Guardar<Ahorcado<Pais>>(this.ahorcado, "Aranda.json");
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Error al intentar serializar", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
 
